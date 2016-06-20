@@ -1,0 +1,33 @@
+/*.mastercontainer {
+	border: solid yellow 2px;
+	height: 400px;
+	width: 600px;
+}*/
+
+
+
+.clockcontainer {
+	border: solid red 2px;
+	background-color: black;
+	height: 100px;
+	width: 200px;
+	text-align: center;
+	padding-top: 20px;
+	border-radius: 50px;
+}
+
+h1 {
+	color: red;
+}
+
+.clockcontainer2 {
+	float: left;
+	border: solid blue 2px;
+	/*background-color: white;*/
+	height: 100px;
+	width: 200px;
+	text-align: center;
+	padding-top: 20px;
+	border-radius: 50px;
+
+}
